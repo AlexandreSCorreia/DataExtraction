@@ -1,0 +1,11 @@
+C:\Users\user\Music\DataExtraction\DataExtraction\bin\Debug\DataExtraction.exe.config
+C:\Users\user\Music\DataExtraction\DataExtraction\bin\Debug\DataExtraction.exe
+C:\Users\user\Music\DataExtraction\DataExtraction\bin\Debug\DataExtraction.pdb
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.csproj.AssemblyReference.cache
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.Form1.resources
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.Properties.Resources.resources
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.csproj.GenerateResource.cache
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.exe
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.pdb
+C:\Users\user\Music\DataExtraction\DataExtraction\obj\Debug\DataExtraction.csproj.SuggestedBindingRedirects.cache
